@@ -1,0 +1,106 @@
+American
+Bakery
+Irish
+Hamburgers
+Kosher
+Ice Cream
+Gelato
+Yogurt
+Delicatessen
+Chinese
+Chicken
+Turkish
+Caribbean
+Donuts
+Bagels
+Pretzels
+Continental
+Pizza
+Sandwiches
+Salads
+Mixed Buffet
+Italian
+Steak
+Polish
+German
+French
+Latin
+Cuban
+Dominican
+Puerto Rican
+South & Central American
+Pizza
+Italian
+Mexican
+Spanish
+Cafe
+Coffee
+Tea
+Tex-Mex
+Pancakes
+Waffles
+Soul Food
+Seafood
+Hotdogs
+Greek
+African
+Japanese
+Indian
+Armenian
+Thai
+Chinese
+Cuban
+Mediterranean
+Korean
+Bottled beverages
+Russian
+Eastern European
+Middle Eastern
+Asian
+Ethiopian
+Vegetarian
+Barbecue
+Egyptian
+English
+Other
+Sandwiches
+Portuguese
+Indonesian
+Chinese
+Japanese
+Filipino
+Juice
+Smoothies
+Fruit Salads
+Brazilian
+Afghan
+Vietnamese
+Cambodian
+Malaysia
+Soups & Sandwiches
+Tapas
+Moroccan
+Pakistani
+Peruvian
+Bangladeshi
+Czech
+Salads
+Creole
+Fruits
+Vegetables
+Iranian
+Cajun
+Scandinavian
+Polynesian
+Soups
+Australian
+Hotdogs
+Pretzels
+Southwestern
+Nuts
+Confectionary
+Hawaiian
+Creole
+Cajun
+Californian
+Chilean

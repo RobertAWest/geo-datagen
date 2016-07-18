@@ -1,0 +1,55 @@
+arcade
+bar
+barbecue
+bed and breakfast
+bistro
+brasserie
+brewery
+buffet
+cafe
+cafeteria
+cakery
+chefs table 
+coffeehouse
+cookhouse
+country kitchen
+countryside kitchen
+deli
+delicatessen
+dhaba
+diner
+diner smokehouse
+eatery
+ethnic
+family style
+farmers table
+food cart 
+food truck 
+grill
+hawker stall
+homestyle kitchen
+inn
+kitchen
+market
+meadery
+nightclub
+osteria
+parlour
+pub
+public house
+raw bar
+restaurant 
+salon
+sandwich bar
+shop
+smoothie bar 
+smoothie cart 
+smoothie truck
+snack bar
+speakeasy
+steakhouse
+street stall
+tavern
+taverna
+trattoria
+urban kitchen
