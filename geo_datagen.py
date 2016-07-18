@@ -260,33 +260,33 @@ def main(argv):
    
    try:
       opts, args = getopt.getopt(argv,"hl:du",["limit=","delete","unique"])
-   except getopt.GetoptError, exc:
-      print exc.msg
-      print "geo_datagen.py -l <limit> -d -u"
+   except getopt.GetoptError as exc:
+      print(exc.msg)
+      print("geo_datagen.py -l <limit> -d -u")
       sys.exit(2)
       
    for opt, arg in opts:
       if opt == "-h":
-         print "geo_datagen.py -l <int> -d"
-         print "-l | --limit \n" + \
+         print("geo_datagen.py -l <int> -d")
+         print("-l | --limit \n" + \
                "\t The number of restaurants to generate. \n" + \
-               "\t Currently supports up to 88,000 documents."
-         print "-d | delete \n" + \
+               "\t Currently supports up to 88,000 documents.")
+         print("-d | delete \n" + \
                "\t Deletes the restaurants.json file" + \
-               "if it already exists"
-         print "-u | unique : \n " + \
+               "if it already exists")
+         print("-u | unique : \n " + \
                "\t Generates unique business owner and \n" + \
                "\t phone numbers. Also results in unique e-mail fields. \n" + \
                "\t Note that this option may result in longer run time \n" + \
                "\t and increased memory usage, especially with large \n" + \
                "\t values of -l. \n" + \
-               "\t Setting this to true implies 'd | --delete'"
-         print "\n geo_datagen.py creates a number of randomly generated \n" + \
+               "\t Setting this to true implies 'd | --delete'")
+         print("\n geo_datagen.py creates a number of randomly generated \n" + \
                "restaurants for use with the MongoDB mongoimport tool, \n" + \
-               "outputting the result to the restaurants.json file"
+               "outputting the result to the restaurants.json file")
          sys.exit()
       elif opt in ("-l", "--limit"):
-         print ("Setting limit to " + arg)
+         print("Setting limit to " + arg)
          limit = int(arg)
       elif opt in ("-d","--delete"):
          print ("Removing restaurants.json")
@@ -303,7 +303,7 @@ def main(argv):
          print ("`-u | --unique` only supports up to 88,000 unique documents")
          limit = 88000
    
-   print "Creating " + str(limit) + " restaurants"
+   print("Creating " + str(limit) + " restaurants")
    
    with open ('restaurants.json', 'a') as myfile:
       for x in range (0,limit):
